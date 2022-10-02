@@ -1,0 +1,5 @@
+- Name: Sneha Agarwal
+- Location: Uttar Pradesh,India
+- Occupation: Chemical Engineering Undergraduate.
+- Bio: A college Sudent who is passionate in writing poetry.
+- Interests: Coding, Learning German, Playing Casio and endless other stuff.
