@@ -1,4 +1,4 @@
-# javascript-documentation README
+# javascript-documentation
 ### open-source
 ### hacktoberfest2022
 # Submit your PR to this [javascript-documentation](https://github.com/Lynch23/javascript-documentation) repo🧭🌟❗
@@ -52,6 +52,11 @@ Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https
 Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 
 Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
+
+## Contributors
+<a href="https://github.com/Lynch23/javascript-documentation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Lynch23/javascript-documentation" />
+</a>
 
 # FAQs (Frequently Asked Questions)🗺️
 - Who can contribute to this project?
