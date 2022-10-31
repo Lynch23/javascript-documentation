@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>FakeOnlineStore</title>
+	<script defer type="text/javascript" src="inventory.js"></script>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<nav>
+		<h3>OnlineMart</h3>
+		<div class="left-nav">
+			<form class="search-items" name="Product">
+				<input type="text" name="search">
+				<button class="btn btn-search">Search</button>
+			</form>
+			<div class="cart">
+				<img src="static/cart-fill.svg">
+				<span class="cart-items"></span>
+				<span>Cart</span>
+			</div>
+		</div>
+	</nav>
+
+	<main>
+		<div class="side-items">
+			<h4>Category</h4>
+			<ul>
+				<li class="item-category active" id="all">All</li>
+				<li class="item-category" id="clothings">Clothings</li>
+				<li class="item-category" id="watches">Watches</li>
+				<li class="item-category" id="bags">Bags</li>
+				<li class="item-category" id="shoes">Shoes</li>
+			</ul>
+		</div>
+		<div class="main-items">
+			<div class="results">
+				<p class="results-num"></p>
+				<!--<form class="sort-items">
+					<label>Sort By:</label>
+					<select>
+						<option value="category">Category</option>
+						<option value="price">Price</option>
+						<option value="brand">Brand</option>
+					</select>
+				</form>-->
+			</div>
+			<div class="line"></div>
+			<div class="items"></div>
+		</div>
+	</main>
+	<footer class="footer small">
+		<p>Copyright &copy onlineMart 2022</p>
+	</footer>
+	<div id="popup"></div>
+	<div class="cart-popup">
+		<h3>Your Cart </h3>
+		<div class="your-cart-items"></div>
+		<div class="cart-footer">
+			<div class="line"></div>
+			<div class="footer-total">
+				<div class="total-title">Total</div>
+				<div class="v-line"></div>
+				<div class="v-line"></div>
+				<div class="total-number"></div>
+			</div>
+			<button class="btn btn-cart-checkout">Check Out</button>
+		</div>
+		<button class="btn btn-close">&times;</button>
+	</div>
+	<script type="text/javascript" src="main.js"></script>
+</body>
+</html>
