@@ -27,3 +27,5 @@ for (let i = 0; i < arrOfNums.length; i++) {
 }
 
 test.textContent = arrOfNumsDoubled;
+
+// in the example above 'i' is being used as a counter. it refers to an index in an array. setting i=0 means the loop starts at index 0. as long as the index is less than the length of the array, the loop will continue to perform its inner operations. at each pass, the index number is incremented (i++). in the body of the loop we push new values (like those created in lines 15-19) to the new array.
