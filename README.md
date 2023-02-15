@@ -2,7 +2,7 @@
 ### open-source
 ### hacktoberfest2022
 # Submit your PR to this [javascript-documentation](https://github.com/Lynch23/javascript-documentation) repo🧭🌟❗
-- This repo has some of my javascript documentation from my learning process. Some of the topics and concepts needed to master javascript for beginners, intermediates or advanced learners are included. Please add any documentation on any javascript topic that you feel every developer should know. Accepting pull requests. Happy Coding! <br>
+- This repo has some of my javascript documentation from my learning process. Some of the topics and concepts needed to master javascript for beginners, intermediates or advanced learners are included. To contribute, please add any documentation on any javascript topic that you feel every developer should know. Accepting pull requests. Happy Coding! <br>
 [My profile](https://github.com/Lynch23)
 ## How to contribute to the project📚
 - Add your name file to the contributors folder
